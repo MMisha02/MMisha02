@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMisha02
 - 👀 I’m interested in ...everything and I know nothing.
-- 🌱 I’m currently learning ...data analytics.
-- 💞️ I’m looking to collaborate on ...data analytics, app development, coding, robotics, engineering, electronics, software engineering, artifical intelligence, machine learning, and deep learning.
+- 🌱 I’m currently learning ...cs50.
+- 💞️ I’m looking to collaborate on ...data analytics, app development, coding, robotics, engineering, electronics, software engineering, artificial intelligence, machine learning, and deep learning.
 - 📫 How to reach me ...not yet.
 
 <!---
