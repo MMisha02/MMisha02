@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @MMisha02
-- 👀 I’m interested in ...everything and I know nothing.
-- 🌱 I’m currently learning ...cs50.
-- 💞️ I’m looking to collaborate on ...data analytics, app development, coding, robotics, engineering, electronics, software engineering, artificial intelligence, machine learning, and deep learning.
-- 📫 How to reach me ...not yet.
+👋 Hi, I’m Mary
 
-<!---
-MMisha02/MMisha02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an operations and client success professional who builds and deploys practical software tools to support real-world workflows.
+
+🔹 Focus areas: operations, program management, customer success, data analysis, and technical systems
+🔹 Projects include a live Chrome extension and a deployed web platform supporting research summarization and decision-making
+🔹 Comfortable collaborating with engineers, product teams, and stakeholders in technical environments
+
+This GitHub contains selected projects that support my operations and product work.
